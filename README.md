@@ -1,4 +1,5 @@
 Theme Clock ⏰
+
 This is a dynamic and visually appealing Theme Clock built using HTML, CSS, and JavaScript. The project displays an analog clock with a modern design, alongside a digital clock and the current date. The design is simple yet elegant, with a focus on providing real-time updates.
 
 Features:
